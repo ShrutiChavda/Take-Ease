@@ -25,7 +25,3 @@ TaskEase is a modern, responsive landing page designed to showcase a task manage
 - **Bootstrap Icons** – Iconography  
 - **Google Fonts** – Inter & Poppins  
 - **AOS (Animate On Scroll)** – Scroll-based animations  
-
----
-
-## 📂 Project Structure
